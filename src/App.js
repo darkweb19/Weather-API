@@ -1,12 +1,11 @@
 // import logo from './logo.svg';
-import './App.css';
-import TempApp from './components/tempapp';
+import "./App.css";
+import TempApp from "./components/tempapp";
 
 function App() {
   return (
-    
     <div>
-      <TempApp/>
+      <TempApp />
     </div>
   );
 }
