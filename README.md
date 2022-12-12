@@ -1,6 +1,6 @@
 # Click this link to see the final web application made with react js
 
-##    click here "[https://darkweb19.github.io/Weather-API/]".
+##    click here [Weather-Api](https://darkweb19.github.io/Weather-API/).
 
 ##  How to use the web App
 
