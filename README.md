@@ -1,5 +1,10 @@
 ## Click this link to see the final web application made with react js
 # click here "[https://darkweb19.github.io/Weather-API/]"
+## Enter a city name to see the weather status
+
+## Development built , clone the repo and initialize with 
+### `npm install`
+ To install node modules
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
